@@ -19,7 +19,7 @@ body {
 }
 .about_me_section,
 .my_projects_section,
-.my_sertificates_section,
+.my_certificates_section,
 .my_education_expiriens_section {
   margin-bottom: 2.5rem;
 }
@@ -51,11 +51,11 @@ body {
   color: #000;
 }
 .my_projects_list,
-.my_sertificates_list {
+.my_certificates_list {
   padding: 0 0 0 17px;
 }
 .my_projects_item,
-.my_sertificates_item {
+.my_certificates_item {
   color: black;
   font-style: normal;
   font-weight: bold;
@@ -63,7 +63,7 @@ body {
   line-height: 24px;
 }
 .my_projects_link,
-.my_sertificates_link {
+.my_certificates_link {
   color: #595959;
   font-style: normal;
   font-weight: normal;
@@ -72,7 +72,7 @@ body {
 }
 
 .my_projects_text,
-.my_sertificates_text {
+.my_certificates_text {
   color: #595959;
   font-style: normal;
   font-weight: normal;
@@ -80,8 +80,7 @@ body {
   line-height: 24px;
   margin-left: 7px;
 }
-.my_projects_breket,
-.my_sertificates_breket {
+.breket {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
