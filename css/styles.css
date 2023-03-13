@@ -27,31 +27,28 @@ body {
   font-style: normal;
   font-weight: bold;
   font-size: 1.5rem;
-  line-height: 17px;
+  line-height: 1.5rem;
   color: #000;
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 .about_me_name {
   font-style: normal;
   font-weight: bold;
   font-size: 3rem;
-  line-height: 55px;
+  line-height: 3rem;
   color: black;
   margin-bottom: 1.5rem;
 }
 .about_me_text {
-  
   text-align: left;
-  line-height: 24px;
+  line-height: 1.5rem;
   color: #595959;
 }
 .main-section-title {
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
-  line-height: 27px;
+  font-size: 1.5rem;
   color: #000;
-  margin-bottom: 10px;
 }
 .my_projects_list,
 .my_sertificates_list {
@@ -158,13 +155,13 @@ body {
 .contacts-section,
 .tech-skill-section,
 .soft-skill-section {
-  margin: 50px 0 0 40px;
+  margin: 2rem 0 0 2rem;
 }
 .sidebar-title {
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
-  line-height: 27px;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
   color: #fff;
   margin-bottom: 10px;
 }
