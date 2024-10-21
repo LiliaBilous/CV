@@ -28,7 +28,7 @@ body {
   font-weight: bold;
   font-size: 1.5rem;
   line-height: 1.5rem;
-  color: #000;
+  color: #fb6d3a;
   margin-bottom: 1.25rem;
 }
 .about_me_name {
@@ -90,6 +90,7 @@ body {
 
 
 .education_expiriens_color {
+  text-transform: uppercase;
   color: #fb6d3a;
   font-style: normal;
   font-weight: bold;
@@ -117,6 +118,8 @@ body {
 .education_expiriens_list {
   padding-left: 18px;
   color: #595959;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 .education_expiriens {
   font-style: normal;
