@@ -244,6 +244,7 @@ body {
 a {
   text-decoration: none;
   transition: 0.3s all ease-in-out;
+  cursor: pointer;
 }
 a:hover,
 a:active {
@@ -255,9 +256,32 @@ a:active {
 .main-content {
   margin: 1rem;
   gap: 0.5rem;
- 
+}
+.my-experience__description {
+  line-height: 1.25;
+  padding: 0.5rem 0;
+}
+.my-education__list {
+  line-height: 1.25;
+  margin: 0.5rem 0;
+  padding-left: 18px;
+}
+.sidebar {
+  padding: 1rem 0;
+  
+}
+.sidebar__img-wrapper {
+  padding-bottom: 0.5rem 0;
+}
+.my-certificates__title, .my-projects__title, .main-section-title, .my-experience__title {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
 }
 .sidebar__contacts, .sidebar__tech-skill, .sidebar__soft-skill, .sidebar__education {
   padding: 0.5rem;
+}
+
+.photo {
+  height: 12rem;
 }
 }
